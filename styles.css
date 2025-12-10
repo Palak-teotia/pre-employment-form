@@ -313,7 +313,7 @@ select[style*="outline"] {
         align-items: stretch;
     }
 
-    .actions>div {
+    .actions > div {
         width: 100%;
         display: flex;
         justify-content: flex-end;
